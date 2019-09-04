@@ -16,7 +16,7 @@
 title: "The OmniFace War"
 email: aj@killerbyteworkshop.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A Bootstrap 4 start up project for Jekyll and Github Pages
+  Official Website | Social media gone mad | Killerbyte Workshop
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -28,6 +28,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
 
 # A list of the pages to display in the navigation bar
 header_pages:
